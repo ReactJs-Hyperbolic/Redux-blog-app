@@ -1,7 +1,9 @@
+import Homepage from './components/Homepage';
+
 function App() {
   return (
     <div className='App'>
-      <h1>Welcome to your 'custom-cra-template' App!</h1>
+      <Homepage />
     </div>
   );
 }
